@@ -1,0 +1,5 @@
+print("Welcome to Plus calculation Program")
+x = input("Enter 1st Number : ")
+y = input("Enter 2nd Number : ")
+z = float(x) + float(y)
+print("Result =",z)
