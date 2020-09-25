@@ -1,21 +1,3 @@
-starinput = list(input("Enter star Ladder: "))
-for x in list(starinput):
-    print(x)
-
-
-
-
-"""
-1
-*
-
-2
-*
-**
-
-3
-*
-**
-***
-
-"""
+starinput = int(input("Enter star Ladder: "))
+for x in range(starinput):
+    print("*" * (x+1))
