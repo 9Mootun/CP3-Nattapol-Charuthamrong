@@ -26,8 +26,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Lecture84">
-    <configuration name="Lecture72_Nattapol_C" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lecture99">
+    <configuration name="Lectuer93" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-Nattapol-Charuthamrong" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +39,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture72_Nattapol_C.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectuer93.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -48,7 +48,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture73" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture94" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-Nattapol-Charuthamrong" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture73.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture94.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture84" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture95" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-Nattapol-Charuthamrong" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture84.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture95.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Text1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture98" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-Nattapol-Charuthamrong" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +102,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Text1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture98.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lecture99" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CP3-Nattapol-Charuthamrong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture99.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,10 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lecture84" />
-        <item itemvalue="Python.Text1" />
-        <item itemvalue="Python.Lecture73" />
-        <item itemvalue="Python.Lecture72_Nattapol_C" />
+        <item itemvalue="Python.Lecture99" />
+        <item itemvalue="Python.Lecture98" />
+        <item itemvalue="Python.Lecture95" />
+        <item itemvalue="Python.Lecture94" />
+        <item itemvalue="Python.Lectuer93" />
       </list>
     </recent_temporary>
   </component>
@@ -136,25 +158,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="451" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601476840953" />
-    <state width="1326" height="179" key="GridCell.Tab.0.bottom" timestamp="1601476389871">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1419" height="179" key="GridCell.Tab.0.bottom" timestamp="1601529610649">
+      <screen x="-1440" y="-137" width="1440" height="860" />
     </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1440.-137.1440.860@-1440.-137.1440.860" timestamp="1601529610649" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1601284712400" />
-    <state width="1326" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601476389871" />
-    <state width="1326" height="179" key="GridCell.Tab.0.center" timestamp="1601476389870">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1326" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601523044300" />
+    <state width="1419" height="179" key="GridCell.Tab.0.center" timestamp="1601529610649">
+      <screen x="-1440" y="-137" width="1440" height="860" />
     </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1440.-137.1440.860@-1440.-137.1440.860" timestamp="1601529610649" />
     <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1601284712400" />
-    <state width="1326" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601476389870" />
-    <state width="1326" height="179" key="GridCell.Tab.0.left" timestamp="1601476389869">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1326" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601523044300" />
+    <state width="1419" height="179" key="GridCell.Tab.0.left" timestamp="1601529610649">
+      <screen x="-1440" y="-137" width="1440" height="860" />
     </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1440.-137.1440.860@-1440.-137.1440.860" timestamp="1601529610649" />
     <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1601284712400" />
-    <state width="1326" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601476389869" />
-    <state width="1326" height="179" key="GridCell.Tab.0.right" timestamp="1601476389870">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1326" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601523044300" />
+    <state width="1419" height="179" key="GridCell.Tab.0.right" timestamp="1601529610649">
+      <screen x="-1440" y="-137" width="1440" height="860" />
     </state>
+    <state width="1419" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-137.1440.860@-1440.-137.1440.860" timestamp="1601529610649" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1601284712400" />
-    <state width="1326" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601476389870" />
+    <state width="1326" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601523044300" />
   </component>
 </project>
