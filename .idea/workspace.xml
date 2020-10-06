@@ -25,9 +25,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.Lecture99">
-    <configuration name="Lectuer93" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lecture\CP3-Nattapol-Charuthamrong" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lecture104">
+    <configuration name="Lecture104" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP3-Nattapol-Charuthamrong" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lectuer93.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture104.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lecture104" />
         <item itemvalue="Python.Lecture99" />
         <item itemvalue="Python.Lecture98" />
         <item itemvalue="Python.Lecture95" />
         <item itemvalue="Python.Lecture94" />
-        <item itemvalue="Python.Lectuer93" />
       </list>
     </recent_temporary>
   </component>
@@ -182,5 +188,9 @@
     <state width="1419" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-137.1440.860@-1440.-137.1440.860" timestamp="1601529610649" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1601284712400" />
     <state width="1326" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601523044300" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601970253608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1440.-137.1440.860@0.0.1366.728" timestamp="1601970253608" />
   </component>
 </project>
