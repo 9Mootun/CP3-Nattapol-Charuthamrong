@@ -1,6 +1,6 @@
 from tkinter import *
 import math
-
+"""
 bmiresult = 0
 
 def leftClickButton(event):
@@ -15,9 +15,61 @@ def leftClickButton(event):
         labelResult.configure(text="โรคอ้วน")
     elif bmiresult >= 30:
         labelResult.configure(text="โรคอ้วนอันตราย")
+"""
 
 
-MainWindow = Tk()
+
+
+# create a root window.
+top = Tk()
+
+# create listbox object
+listbox = Listbox(top, height = 5,
+				width = 15,
+				bg = "grey",
+				activestyle = 'dotbox',
+				font = "Helvetica",
+				fg = "yellow")
+
+listbox1 = Listbox(top, height = 5,
+				width = 15,
+				bg = "grey",
+				activestyle = 'dotbox',
+				font = "Helvetica",
+				fg = "yellow")
+
+# Define the size of the window.
+top.geometry("300x250")
+
+# Define a label for the list.
+label = Label(top, text = " Currency I Have")
+label1 = Label(top, text = " Currency I Want")
+# insert elements by their
+# index and names.
+listbox.insert(1, "USD")
+listbox.insert(2, "JPY")
+listbox.insert(3, "THB")
+listbox.insert(4, "SGD")
+listbox.insert(5, "EUR")
+
+listbox1.insert(1, "USD")
+listbox1.insert(2, "JPY")
+listbox1.insert(3, "THB")
+listbox1.insert(4, "SGD")
+listbox1.insert(5, "EUR")
+
+# pack the widgets
+
+label.grid(row = 1, column = 1)
+label1.grid(row = 1, column = 2)
+listbox.grid(row = 2, column = 1,sticky = W,columnspan = 3)
+listbox1.grid(row = 2, column = 2)
+
+# Display untill User
+# exits themselves.
+top.mainloop()
+
+"""
 labelHeight = Label(MainWindow, text="ส่วนสูง (cm.)")
 labelHeight.grid(row=0,column=0)
 
@@ -37,5 +89,5 @@ calculateButton.grid(row=2,column=0)
 labelResult = Label(MainWindow,text="ผลลัพธ์")
 labelResult.grid(row=2,column=1)
 
-
 MainWindow.mainloop()
+"""
